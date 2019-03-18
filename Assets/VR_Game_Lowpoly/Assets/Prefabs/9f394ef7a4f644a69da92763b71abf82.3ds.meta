@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 76553593591064e469ae7680ae451072
+timeCreated: 1499312899
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box100
+    100004: Box101
+    100006: Box102
+    100008: Box103
+    100010: Box104
+    100012: Box105
+    100014: Box106
+    100016: Box107
+    100018: Box108
+    100020: Box109
+    100022: Box110
+    100024: Box78
+    100026: Box79
+    100028: Box80
+    100030: Box81
+    100032: Box82
+    100034: Box83
+    100036: Box84
+    100038: Box85
+    100040: Box86
+    100042: Box87
+    100044: Box88
+    100046: Box89
+    100048: Box90
+    100050: Box91
+    100052: Box92
+    100054: Box93
+    100056: Box94
+    100058: Box95
+    100060: Box96
+    100062: Box97
+    100064: Box98
+    100066: Box99
+    100068: Capsule10
+    100070: Capsule11
+    100072: Capsule12
+    100074: Capsule13
+    100076: Capsule14
+    100078: Chimney c0
+    100080: Chimney co
+    100082: Chimney w0
+    100084: Chimney wh
+    100086: Chimney10
+    100088: Chimney11
+    100090: GeoSphere0
+    100092: GeoSphere1
+    100094: GeoSphere2
+    100096: GeoSphere3
+    100098: GeoSphere4
+    100100: GeoSphere5
+    100102: Goldball04
+    100104: Goldball05
+    100106: Goldball06
+    100108: Line39
+    100110: Line40
+    100112: Line41
+    100114: Line42
+    100116: Line43
+    100118: Line44
+    100120: Line45
+    100122: Line46
+    100124: Line47
+    100126: Line48
+    100128: Line49
+    100130: Line50
+    100132: Line51
+    100134: Line52
+    100136: Line53
+    100138: Line54
+    100140: Line55
+    100142: Line56
+    100144: Line57
+    100146: Line58
+    100148: Tank06
+    100150: Tank07
+    100152: Tank08
+    100154: Tank09
+    100156: Torus12
+    100158: Torus13
+    100160: Tower top0
+    100162: Tower02
+    400000: //RootNode
+    400002: Box100
+    400004: Box101
+    400006: Box102
+    400008: Box103
+    400010: Box104
+    400012: Box105
+    400014: Box106
+    400016: Box107
+    400018: Box108
+    400020: Box109
+    400022: Box110
+    400024: Box78
+    400026: Box79
+    400028: Box80
+    400030: Box81
+    400032: Box82
+    400034: Box83
+    400036: Box84
+    400038: Box85
+    400040: Box86
+    400042: Box87
+    400044: Box88
+    400046: Box89
+    400048: Box90
+    400050: Box91
+    400052: Box92
+    400054: Box93
+    400056: Box94
+    400058: Box95
+    400060: Box96
+    400062: Box97
+    400064: Box98
+    400066: Box99
+    400068: Capsule10
+    400070: Capsule11
+    400072: Capsule12
+    400074: Capsule13
+    400076: Capsule14
+    400078: Chimney c0
+    400080: Chimney co
+    400082: Chimney w0
+    400084: Chimney wh
+    400086: Chimney10
+    400088: Chimney11
+    400090: GeoSphere0
+    400092: GeoSphere1
+    400094: GeoSphere2
+    400096: GeoSphere3
+    400098: GeoSphere4
+    400100: GeoSphere5
+    400102: Goldball04
+    400104: Goldball05
+    400106: Goldball06
+    400108: Line39
+    400110: Line40
+    400112: Line41
+    400114: Line42
+    400116: Line43
+    400118: Line44
+    400120: Line45
+    400122: Line46
+    400124: Line47
+    400126: Line48
+    400128: Line49
+    400130: Line50
+    400132: Line51
+    400134: Line52
+    400136: Line53
+    400138: Line54
+    400140: Line55
+    400142: Line56
+    400144: Line57
+    400146: Line58
+    400148: Tank06
+    400150: Tank07
+    400152: Tank08
+    400154: Tank09
+    400156: Torus12
+    400158: Torus13
+    400160: Tower top0
+    400162: Tower02
+    2300000: Box100
+    2300002: Box101
+    2300004: Box102
+    2300006: Box103
+    2300008: Box104
+    2300010: Box105
+    2300012: Box106
+    2300014: Box107
+    2300016: Box108
+    2300018: Box109
+    2300020: Box110
+    2300022: Box78
+    2300024: Box79
+    2300026: Box80
+    2300028: Box81
+    2300030: Box82
+    2300032: Box83
+    2300034: Box84
+    2300036: Box85
+    2300038: Box86
+    2300040: Box87
+    2300042: Box88
+    2300044: Box89
+    2300046: Box90
+    2300048: Box91
+    2300050: Box92
+    2300052: Box93
+    2300054: Box94
+    2300056: Box95
+    2300058: Box96
+    2300060: Box97
+    2300062: Box98
+    2300064: Box99
+    2300066: Capsule10
+    2300068: Capsule11
+    2300070: Capsule12
+    2300072: Capsule13
+    2300074: Capsule14
+    2300076: Chimney c0
+    2300078: Chimney co
+    2300080: Chimney w0
+    2300082: Chimney wh
+    2300084: GeoSphere0
+    2300086: GeoSphere1
+    2300088: GeoSphere2
+    2300090: GeoSphere3
+    2300092: GeoSphere4
+    2300094: GeoSphere5
+    2300096: Line39
+    2300098: Line40
+    2300100: Line41
+    2300102: Line42
+    2300104: Line43
+    2300106: Line44
+    2300108: Line45
+    2300110: Line46
+    2300112: Line47
+    2300114: Line48
+    2300116: Line49
+    2300118: Line50
+    2300120: Line51
+    2300122: Line52
+    2300124: Line53
+    2300126: Line54
+    2300128: Line55
+    2300130: Line56
+    2300132: Line57
+    2300134: Line58
+    2300136: Torus12
+    2300138: Torus13
+    2300140: Tower top0
+    3300000: Box100
+    3300002: Box101
+    3300004: Box102
+    3300006: Box103
+    3300008: Box104
+    3300010: Box105
+    3300012: Box106
+    3300014: Box107
+    3300016: Box108
+    3300018: Box109
+    3300020: Box110
+    3300022: Box78
+    3300024: Box79
+    3300026: Box80
+    3300028: Box81
+    3300030: Box82
+    3300032: Box83
+    3300034: Box84
+    3300036: Box85
+    3300038: Box86
+    3300040: Box87
+    3300042: Box88
+    3300044: Box89
+    3300046: Box90
+    3300048: Box91
+    3300050: Box92
+    3300052: Box93
+    3300054: Box94
+    3300056: Box95
+    3300058: Box96
+    3300060: Box97
+    3300062: Box98
+    3300064: Box99
+    3300066: Capsule10
+    3300068: Capsule11
+    3300070: Capsule12
+    3300072: Capsule13
+    3300074: Capsule14
+    3300076: Chimney c0
+    3300078: Chimney co
+    3300080: Chimney w0
+    3300082: Chimney wh
+    3300084: GeoSphere0
+    3300086: GeoSphere1
+    3300088: GeoSphere2
+    3300090: GeoSphere3
+    3300092: GeoSphere4
+    3300094: GeoSphere5
+    3300096: Line39
+    3300098: Line40
+    3300100: Line41
+    3300102: Line42
+    3300104: Line43
+    3300106: Line44
+    3300108: Line45
+    3300110: Line46
+    3300112: Line47
+    3300114: Line48
+    3300116: Line49
+    3300118: Line50
+    3300120: Line51
+    3300122: Line52
+    3300124: Line53
+    3300126: Line54
+    3300128: Line55
+    3300130: Line56
+    3300132: Line57
+    3300134: Line58
+    3300136: Torus12
+    3300138: Torus13
+    3300140: Tower top0
+    4300000: GeoSphere0
+    4300002: Line39
+    4300004: Line49
+    4300006: Line51
+    4300008: Line48
+    4300010: Line42
+    4300012: Line41
+    4300014: Capsule11
+    4300016: Line55
+    4300018: Box79
+    4300020: Tower top0
+    4300022: Torus12
+    4300024: Chimney co
+    4300026: Chimney wh
+    4300028: Box81
+    4300030: Capsule12
+    4300032: Box83
+    4300034: GeoSphere1
+    4300036: Line44
+    4300038: Line54
+    4300040: GeoSphere4
+    4300042: GeoSphere5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
